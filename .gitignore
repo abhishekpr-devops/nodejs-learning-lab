@@ -1,0 +1,14 @@
+
+# Obsidian (keep shared settings, ignore per-machine state)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Obsidian
+.obsidian/
+.trash/
+
+# Local-only files
+00-Index.md
+setup-obsidian.sh
